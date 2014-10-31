@@ -1,6 +1,6 @@
 
 <html ><head>
-<title> Liturgia de $mes </title>
+<title> Liturgia</title>
 <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv=\"content-language\" content=\"pt-BR\">
 
